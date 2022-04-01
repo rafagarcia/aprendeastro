@@ -1,0 +1,25 @@
+{
+  "name": "aprendeastro",
+  "version": "1.0.0",
+  "description": "Repositorio con material relacionado con el aprendizaje de la librería astro",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafagarcia/aprendeastro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafagarcia/aprendeastro/issues"
+  },
+  "homepage": "https://github.com/rafagarcia/aprendeastro#readme",
+  "dependencies": {
+    "astro": "^0.25.4"
+  }
+}
